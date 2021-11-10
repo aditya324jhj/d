@@ -2,7 +2,7 @@ noseX=0;
 noseY=0;
 
 function preload() {
-clown_nose = loadImage('https://i.postimg.cc/05MQ9crg/Pin-Clipart-com-moustache-clip-art-5219414.png')
+clown_nose = loadImage('https://i.postimg.cc/6qfYGrmS/unnamed-1.jpg')
 
 }
 
